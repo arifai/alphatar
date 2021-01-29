@@ -1,6 +1,6 @@
 # Alphatar
 
-![License](https://img.shields.io/github/license/arifai/alphatar)
+![License](https://img.shields.io/github/license/arifai/alphatar) ![Pub version](https://img.shields.io/pub/v/alphatar)
 
 Create an avatar with the initials of your text.
 
