@@ -1,7 +1,7 @@
 name: alphatar
 description: Create an avatar with the initials of your text.
 version: 0.1.0
-author: Ahmad Rifa'i <arifai209@gmail.com>
+# author: Ahmad Rifa'i <arifai209@gmail.com>
 homepage: https://github.com/arifai/alphatar
 repository: https://github.com/arifai/alphatar
 
