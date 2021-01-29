@@ -1,11 +1,13 @@
 # Alphatar
 
+![License](https://img.shields.io/github/license/arifai/alphatar)
+
 Create an avatar with the initials of your text.
 
 ## Screenshot
 
 <p align="center">
-    <img src="image/ss.jpg" width="400px">
+    <img src="image/ss.jpg" width="300px">
 </p>
 
 
